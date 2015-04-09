@@ -1,0 +1,46 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Aritm\'etica b\'asica}{3}
+\contentsline {section}{\numberline {1.1}Operaciones con enteros}{3}
+\contentsline {section}{\numberline {1.2}Operaciones con n\'umeros racionales y reales}{4}
+\contentsline {section}{\numberline {1.3}La ayuda en {\sf Sage}}{8}
+\contentsline {section}{\numberline {1.4}Comparaci\'on de n\'umeros}{10}
+\contentsline {section}{\numberline {1.5}Primos y factorizaci\'on}{11}
+\contentsline {section}{\numberline {1.6}Divisi\'on eucl\IeC {\'\i }dea}{13}
+\contentsline {section}{\numberline {1.7}M\'aximo com\'un divisor y M\IeC {\'\i }nimo com\'un m\'ultiplo}{14}
+\contentsline {section}{\numberline {1.8}N\'umeros complejos}{15}
+\contentsline {section}{\numberline {1.9}Miscel\'anea}{19}
+\contentsline {chapter}{\numberline {2}Ecuaciones y sistemas}{21}
+\contentsline {section}{\numberline {2.1}Resoluci\'on de ecuaciones elementales en modo exacto}{21}
+\contentsline {section}{\numberline {2.2}Resoluci\'on de sistemas}{23}
+\contentsline {section}{\numberline {2.3}Manipulaci\'on de ecuaciones}{24}
+\contentsline {section}{\numberline {2.4}Resoluci\'on num\'erica de ecuaciones}{26}
+\contentsline {chapter}{\numberline {3}Polinomios}{27}
+\contentsline {section}{\numberline {3.1}Operaciones con polinomios}{27}
+\contentsline {section}{\numberline {3.2}Factorizaci\'on}{29}
+\contentsline {section}{\numberline {3.3}Ra\IeC {\'\i }ces de polinomios}{31}
+\contentsline {section}{\numberline {3.4}Fracciones algebraicas}{32}
+\contentsline {section}{\numberline {3.5}Miscel\'anea}{33}
+\contentsline {chapter}{\numberline {4}Gr\'aficas y objetos gr\'aficos}{36}
+\contentsline {section}{\numberline {4.1}Gr\'aficas de funciones}{36}
+\contentsline {section}{\numberline {4.2}Funciones a trozos y varias funciones}{37}
+\contentsline {section}{\numberline {4.3}Diversos objetos gr\'aficos}{38}
+\contentsline {chapter}{\numberline {5}An\'alisis}{41}
+\contentsline {section}{\numberline {5.1}L\IeC {\'\i }mites}{42}
+\contentsline {section}{\numberline {5.2}Derivadas}{43}
+\contentsline {section}{\numberline {5.3}Integrales}{44}
+\contentsline {section}{\numberline {5.4}Polinomio de Taylor}{44}
+\contentsline {chapter}{\numberline {6}\'Algebra Lineal Elemental}{47}
+\contentsline {section}{\numberline {6.1}Vectores y operaciones}{47}
+\contentsline {section}{\numberline {6.2}Matrices y operaciones}{50}
+\contentsline {section}{\numberline {6.3}Determinantes}{53}
+\contentsline {section}{\numberline {6.4}Operaciones elementales con matrices}{56}
+\contentsline {section}{\numberline {6.5}Sistemas de ecuaciones}{57}
+\contentsline {chapter}{\numberline {7}\'Algebra Lineal}{60}
+\contentsline {section}{\numberline {7.1}Espacios vectoriales}{60}
+\contentsline {section}{\numberline {7.2}Las matrices y los espacios vectoriales}{64}
+\contentsline {section}{\numberline {7.3}Polinomio caracter\IeC {\'\i }stico y autovectores}{66}
+\contentsline {chapter}{\numberline {8}Teor\IeC {\'\i }a elemental de n\'umeros}{69}
+\contentsline {section}{\numberline {8.1}Los anillos $\mathbb {Z}_n$}{69}
+\contentsline {section}{\numberline {8.2}Funciones multiplicativas}{71}
+\contentsline {chapter}{\numberline {A}Cuaterniones}{75}
+\contentsline {chapter}{\numberline {B}Grupos abelianos finitos}{78}
